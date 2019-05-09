@@ -22,6 +22,7 @@ Boilerplate docker contenant :
 
 Cloner le projet :
 ```
+git clone git@github.com:averdier/vuejs_php_nginx.git
 ```
 
 Installer les dépendances:
